@@ -1,32 +1,60 @@
-<p align="center"><img alt="borda inicial" src="images/gui-dev-1.png"></p>
+# Guilherme Cunha
 
-<div align="center">
-  <h3>Opa! Sou Guilherme! 😊</h3>
-  <p>Estou descobrindo as linguagens de programação e tem sido uma aventura incrível!</p>
-</div>
+**Web Design ✦ Front-end ✦ UX/UI ✦ React Native**
 
----
+Sou estudante de **Web Design na FIAP**, com foco em desenvolvimento front-end, UX/UI Design e criação de interfaces digitais responsivas.
 
-<div align="center">
-  <h4>Atualmente estou aprendendo:</h4>
-  <img width=32px; alt="javascript" src="images/js.svg">
-  <img width=32px; alt="css" src="images/css.svg">
-  <img width=32px; alt="html" src="images/html.svg">
-  <img width=32px; alt="vs code" src="images/vscode.svg">
-  <img width=32px; alt="github" src="images/github.svg">
-  <img width=32px; alt="git" src="images/git.svg">
-</div>
+Tenho desenvolvido projetos acadêmicos e pessoais envolvendo **HTML, CSS, JavaScript, React, React Native, Figma, APIs e prototipação de soluções digitais**, sempre buscando unir design, tecnologia e experiência do usuário.
+
+Atualmente, busco oportunidades de **estágio ou entrada na área de tecnologia**, especialmente em front-end, web design, UX/UI ou desenvolvimento mobile.
 
 ---
 
-<div align="center">
-  <h4>Vamos conversar?</h4>
-  <a href="https://www.linkedin.com/in/guicunhasou/"><img width=32px; alt="linkedin" src="images/linkedin.svg"></a>
-  <a href="mailto:guicunhasou@gmail.com"><img width=32px; alt="gmail" src="images/gmail.svg"></a>
-  <a href="https://wa.me/5581997679527"><img width=32px; alt="whatsapp" src="images/whatsapp.svg"></a>
-  <a href="https://instagram.com/guicunhasou/"><img width=32px; alt="instagram" src="images/instagram.svg"></a>
- </div>
+## Tecnologias e ferramentas
 
-<br><br>
+![HTML5](https://img.shields.io/badge/HTML5-342A2A?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-342A2A?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-342A2A?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-342A2A?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-342A2A?style=for-the-badge&logo=react&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-342A2A?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-342A2A?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-342A2A?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center"><img width="100%" alt="borda final" src="images/gui-dev-2.png"></p>
+---
+
+## Projetos em destaque
+
+### ReUse!
+Aplicação mobile em **React Native** voltada à reutilização, doação e troca de itens, com autenticação, consumo de API e cache local.
+
+### SportsX
+Plataforma web desenvolvida em **HTML, CSS e JavaScript**, criada para dar visibilidade a esportes menos valorizados e selecionada para o **FIAP NEXT**.
+
+### Iara Games
+Projeto front-end com **HTML, CSS, JavaScript e Node-RED**, com foco em interfaces interativas, acessibilidade e visualização de dados.
+
+### Jardimental
+Estudo de caso de **UX/UI Design** voltado ao acompanhamento de hábitos de saúde mental, guias informativos e motivação por meio de um jardim virtual.
+
+---
+
+## Em aprendizado contínuo
+
+Atualmente estou aprofundando meus estudos em:
+
+- React e React Native;
+- desenvolvimento front-end;
+- UX/UI Design;
+- integração com APIs;
+- modelagem de dados;
+- prototipação e design de interfaces;
+- animações usando After Effects.
+
+---
+
+## Contato
+
+[![E-mail](https://img.shields.io/badge/E--mail-342A2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guicunhasou@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-342A2A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guicunhasou/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-342A2A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.guicunhasou.com/)
