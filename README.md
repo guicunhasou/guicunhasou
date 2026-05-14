@@ -12,8 +12,8 @@ Atualmente, busco oportunidades de **estágio ou entrada na área de tecnologia*
 
 ## Tecnologias e ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-342A2A?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-342A2A?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-342A2A?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-342A2A?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-342A2A?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-342A2A?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-342A2A?style=for-the-badge&logo=react&logoColor=white)
@@ -55,6 +55,6 @@ Atualmente estou aprofundando meus estudos em:
 
 ## Contato
 
-[![E-mail](https://img.shields.io/badge/E--mail-342A2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guicunhasou@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-342A2A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guicunhasou/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-342A2A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.guicunhasou.com/)
+[![E-mail](https://img.shields.io/badge/E--mail-342A2A?style=for-the-badge)](mailto:guinhasou@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-342A2A?style=for-the-badge)](https://www.linkedin.com/in/guicunhasou/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-342A2A?style=for-the-badge)](https://www.guicunhasou.com/)
