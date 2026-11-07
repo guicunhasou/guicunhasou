@@ -28,10 +28,10 @@ Atualmente, busco oportunidades de **estágio ou entrada na área de tecnologia*
 ### ReUse!
 Aplicação mobile em **React Native** voltada à reutilização, doação e troca de itens, com autenticação, consumo de API e cache local.
 
-### SportsX
+### [SportsX](https://github.com/fiap-webdesign/enterprise-challenge-sportsx)
 Plataforma web desenvolvida em **HTML, CSS e JavaScript**, criada para dar visibilidade a esportes menos valorizados e selecionada para o **FIAP NEXT**.
 
-### Iara Games
+### [Iara Games](https://github.com/guicunhasou/iara-games)
 Projeto front-end com **HTML, CSS, JavaScript e Node-RED**, com foco em interfaces interativas, acessibilidade e visualização de dados.
 
 ### Jardimental
@@ -55,6 +55,6 @@ Atualmente estou aprofundando meus estudos em:
 
 ## Contato
 
-[![E-mail](https://img.shields.io/badge/E--mail-342A2A?style=for-the-badge)](mailto:guinhasou@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-342A2A?style=for-the-badge)](mailto:guicunhasou@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-342A2A?style=for-the-badge)](https://www.linkedin.com/in/guicunhasou/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-342A2A?style=for-the-badge)](https://www.guicunhasou.com/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-342A2A?style=for-the-badge)](https://guicunha.com.br/)
