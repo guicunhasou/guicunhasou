@@ -25,7 +25,7 @@ Atualmente, busco oportunidades de **estágio ou entrada na área de tecnologia*
 
 ## Projetos em destaque
 
-### ReUse!
+### [ReUse!](https://github.com/isalvesb/ReUse)
 Aplicação mobile em **React Native** voltada à reutilização, doação e troca de itens, com autenticação, consumo de API e cache local.
 
 ### [SportsX](https://github.com/fiap-webdesign/enterprise-challenge-sportsx)
